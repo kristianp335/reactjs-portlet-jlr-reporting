@@ -1,0 +1,5 @@
+Bundle-Name: react-warranty
+Bundle-SymbolicName: com.liferay.kris.react.warranty
+Bundle-Version: 1.0.0
+Export-Package: com.liferay.kris.react.warranty.constants
+Web-ContextPath: /react-warranty
